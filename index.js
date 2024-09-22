@@ -35,4 +35,10 @@ function calculadora() {
             return;
     }
 
+alert("O resultadoDaOperacao é: " + resultadoDaOperacao.toFixed(2));
+
+calculadora();
+
 }
+
+calculadora();
