@@ -22,7 +22,7 @@ Como parte do desafio final deste curso, aplicar os conhecimentos adquiridos par
 
 ## Instruções
 
-Você pode baixar o repositório e executar o index.html localmente para que a calculadora funcione usando os prompts do navegador. Você pode também executar remotamente ao acessar o link do deploy.git
+Você pode baixar o repositório e executar o index.html localmente para que a calculadora funcione usando os prompts do navegador. Você pode também executar remotamente ao acessar o link do deploy.
 
 ## Link do Deploy
 
